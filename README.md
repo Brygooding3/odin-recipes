@@ -1,0 +1,1 @@
+I am building a basic website for my recipes. I have learned skills that allow me to link websites and pages. I have also learned how to add photos and create lists. This should e a fun project an I am excited to see my result.
