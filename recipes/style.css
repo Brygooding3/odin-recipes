@@ -5,6 +5,7 @@ h1.title {
     background-color: darkgrey;
     padding: 20px;
     font-family: Georgia, 'Times New Roman', Times, serif;
+    border-radius: 30px;
 }
 body {
     background-color: gainsboro;
