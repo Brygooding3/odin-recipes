@@ -23,6 +23,8 @@ h3.title {
     font-size: 22px;  
     float: left;  
     text-decoration: none;
+    display:block;
+    Margin:0 auto;
 }
 .pic {
     display:block;
@@ -34,4 +36,7 @@ h3.title {
 .titpic {
     display:block;
     border-radius: 20px;
+}
+.list {
+    list-style-type: none;
 }
